@@ -11,7 +11,7 @@ import React, {
   View
 } from 'react-native';
 
-import YYToast from '../index';
+import YYToast from 'react-native-yytoast';
 
 class YYToastExample extends Component {
   render() {
